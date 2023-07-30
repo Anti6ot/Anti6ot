@@ -12,6 +12,5 @@
 - ✉️ Связь со мной [NikolaiFinance@yandex.ru](mailto:NikolaiFinance@yandex.ru)
   или https://t.me/lilapanics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anti6ot&show_icons=true&bg_color=00000000)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anti6ot&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anti6ot&show_icons=true&bg_color=00000000)
