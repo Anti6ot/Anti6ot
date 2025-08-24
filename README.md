@@ -1,4 +1,4 @@
-# Привет 👋 Меня зовут Николай!
+# hi 👋 !
 
 ## Fullstack Developer
 
