@@ -1,14 +1,103 @@
-# hi 👋 !
+# 👋 Hi, I'm Nikolai
 
-## Fullstack Developer
+## 🚀 Fullstack & DevOps Developer
 
-- 👨‍💻 Владею: <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://openvpn.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/OpenVPN_logo.svg" alt="openvpn" width="40" height="40"/> </a> <a href="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/> </a></p>
-- ⚡ Знаком с такими технологиями как:
-    <h2> <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p> </h2>
+Я разрабатываю веб-приложения, настраиваю серверную инфраструктуру и работаю с сетевыми технологиями (VPN, Xray, self-hosted сервисы).  
+Фокус: чистая архитектура, стабильные сервисы и практичные решения.
 
-- ✉️ Связь со мной [NikolaiFinance@yandex.ru](mailto:NikolaiFinance@yandex.ru)
-  или https://t.me/lilapanics
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anti6ot&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anti6ot&show_icons=true&bg_color=00000000)
+## 🧠 Основной стек
+
+<p align="left">
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
+  
+  <!-- Node.js -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs"/>
+  
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react"/>
+  
+  <!-- Express -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express"/>
+  
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"/>
+  
+  <!-- Git -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/>
+  
+  <!-- SQL -->
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="sql"/>
+</p>
+
+---
+
+## ⚙️ DevOps & Networking
+
+<p align="left">
+  <!-- OpenVPN -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/OpenVPN_logo.svg" width="40" height="40" alt="openvpn"/>
+  
+  <!-- Xray (custom icon) -->
+  <img src="https://raw.githubusercontent.com/XTLS/Xray-core/main/logo.png" width="40" height="40" alt="xray"/>
+</p>
+
+- VPN инфраструктура (OpenVPN / Xray)
+- VPS настройка и hardening
+- Reverse proxy (Nginx)
+- Self-hosted сервисы
+- Docker контейнеризация
+
+---
+
+## 🤖 AI & Tools
+
+<p align="left">
+  <!-- ChatGPT -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" alt="chatgpt"/>
+  
+  <!-- Lovable AI (placeholder icon) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="40" height="40" alt="ai"/>
+</p>
+
+Использую AI-инструменты для:
+- ускорения разработки
+- архитектурного проектирования
+- автоматизации задач
+- анализа кода
+
+---
+
+## 📚 Знаком с технологиями
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="mongodb"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/>
+</p>
+
+---
+
+## 📊 GitHub Статистика
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anti6ot&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anti6ot&show_icons=true&theme=tokyonight&bg_color=00000000)
+
+---
+
+## 📫 Контакты
+
+- ✉️ Email: NikolaiFinance@yandex.ru  
+- 💬 Telegram: https://t.me/lilapanics
+
+---
+
+## 🎯 Текущие интересы
+- VPN технологии (Xray, WireGuard, OpenVPN)
+- Self-hosted инфраструктура
+- IoT и ESP32
+- DevOps автоматизация
+- Безопасные сетевые архитектуры
