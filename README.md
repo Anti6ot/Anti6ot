@@ -2,6 +2,7 @@
 
 ## 🚀 Fullstack & DevOps Developer
 
+
 Я разрабатываю веб-приложения, настраиваю серверную инфраструктуру и работаю с сетевыми технологиями (VPN, Xray, self-hosted сервисы).  
 Фокус: чистая архитектура, стабильные сервисы и практичные решения.
 
@@ -107,8 +108,8 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anti6ot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anti6ot&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anti6ot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anti6ot&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
 </p>
 
 ---
