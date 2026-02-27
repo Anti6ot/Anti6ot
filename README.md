@@ -49,7 +49,23 @@
 - Reverse proxy (Nginx)
 - Self-hosted сервисы
 - Docker контейнеризация
+---
 
+## 🐧 Linux & Systems
+
+<p align="left">
+  <!-- Linux -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
+  
+  <!-- Ubuntu -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40" alt="ubuntu"/>
+</p>
+
+- Администрирование Linux (Ubuntu / Debian)
+- Настройка VPS серверов
+- Bash и системные утилиты
+- Systemd сервисы
+- Hardening и безопасность серверов
 ---
 
 ## 🤖 AI & Tools
