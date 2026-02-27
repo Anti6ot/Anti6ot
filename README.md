@@ -49,6 +49,17 @@
 - Reverse proxy (Nginx)
 - Self-hosted сервисы
 - Docker контейнеризация
+
+     ## 🌐 Networking & OSI Model
+
+      - Понимание модели OSI (L1–L7)
+      - TCP/IP, DNS, HTTP/HTTPS
+      - VPN протоколы (Xray, OpenVPN)
+      - Reverse Proxy (Nginx)
+      - WebSocket, TLS, Reality
+      - Firewall и маршрутизация
+      - Анализ сетевого трафика
+
 ---
 
 ## 🐧 Linux & Systems
