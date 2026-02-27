@@ -41,7 +41,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/OpenVPN_logo.svg" width="40" height="40" alt="openvpn"/>
   
   <!-- Xray (custom icon) -->
-  <img src="https://raw.githubusercontent.com/XTLS/Xray-core/main/logo.png" width="40" height="40" alt="xray"/>
+  <img src="https://camo.githubusercontent.com/ede9710f2920f243f0e56cb036684fff6fef9c0a174ea5bb92109e5ef72c3812/68747470733a2f2f726177322e736561646e2e696f2f657468657265756d2f3078356565333632383636303031363133303933333631656238353639643539633431343162373664312f3766613963653930306662333962343432323633343864623333306533322f38623766613963653930306662333962343432323633343864623333306533322e737667" width="40" height="40" alt="xray"/>
 </p>
 
 - VPN инфраструктура (OpenVPN / Xray)
