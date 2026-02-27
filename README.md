@@ -107,10 +107,9 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anti6ot&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anti6ot&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anti6ot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anti6ot&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=86400" height="170"/>
 </p>
-
 
 ---
 
