@@ -87,7 +87,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="40" height="40" alt="ai"/>
 
   <!-- Mistral AI (placeholder icon) -->
-  <img src="https://commons.wikimedia.org/w/index.php?curid=159283273" width="40" height="40" alt="ai"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Mistral_AI_logo_%282025%E2%80%93%29.svg/330px-Mistral_AI_logo_%282025%E2%80%93%29.svg.png" width="40" height="40" alt="ai"/>
 
   <!-- Copilot AI (placeholder icon) -->
   <img src="https://en.wikipedia.org/w/index.php?curid=79572712" width="40" height="40" alt="ai"/>
