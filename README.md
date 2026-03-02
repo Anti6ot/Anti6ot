@@ -85,6 +85,12 @@
   
   <!-- Lovable AI (placeholder icon) -->
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="40" height="40" alt="ai"/>
+
+  <!-- Mistral AI (placeholder icon) -->
+  <img src="https://commons.wikimedia.org/w/index.php?curid=159283273" width="40" height="40" alt="ai"/>
+
+  <!-- Copilot AI (placeholder icon) -->
+  <img src="https://en.wikipedia.org/w/index.php?curid=79572712" width="40" height="40" alt="ai"/>
 </p>
 
 Использую AI-инструменты для:
