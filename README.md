@@ -77,14 +77,13 @@
 - Hardening и безопасность серверов
 ---
 
-## 🤖 AI & Tools
+
+## 🤖 Создаю ИИ-агентов
 
 <p align="left">
-  <!-- ChatGPT -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" height="40" alt="chatgpt"/>
-  
-  <!-- Lovable AI (placeholder icon) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="40" height="40" alt="ai"/>
+  <!-- Qwen -->
+  <img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-logo.svg" width="40" height="40" alt="Qwen"/>
+</p>
 
 
 </p>
