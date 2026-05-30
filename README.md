@@ -82,7 +82,7 @@
 
 <p align="left">
   <!-- Qwen -->
-  <img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-logo.svg" width="40" height="40" alt="Qwen"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Qwen_logo.svg/3840px-Qwen_logo.svg.png" width="40" height="40" alt="Qwen"/>
 </p>
 
 
