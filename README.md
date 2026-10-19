@@ -100,15 +100,6 @@
 
 ---
 
-## 📊 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anti6ot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anti6ot&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
-</p>
-
----
-
 ## 📫 Контакты
 
 - ✉️ Email: NikolaiFinance@yandex.ru  
